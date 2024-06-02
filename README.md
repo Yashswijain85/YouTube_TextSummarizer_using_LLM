@@ -1,4 +1,4 @@
 # YouTube_TextSummarizer_using_LLM
-Developed a blog generation project using object-oriented programming and Hugging Face's Transformers library. This scalable and modular project automates the creation of coherent and engaging blog posts from input prompts, adaptable for various topics and styles.
+Developed a YouTube video summarizer project using large language models (LLMs). This efficient tool automatically generates concise summaries of YouTube videos, improving accessibility and user experience across diverse content types.
 
 [IMAGES](https://github.com/user-attachments/files/15525661/BLOG.GEN.PROJECT.pdf)
